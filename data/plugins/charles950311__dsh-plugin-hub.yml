@@ -1,0 +1,6 @@
+url: https://github.com/Charles950311/dsh-plugin-hub
+name: Charles950311/dsh-plugin-hub
+category: tools
+description:
+  en: Read-only inventory, health checks and dispatch routing for the plugins and skills installed in a DeepSeek Harness profile.
+  zh: 只读的插件清单、健康检查与调度路由，作用于某个 DeepSeek Harness profile 里已安装的插件与技能。
